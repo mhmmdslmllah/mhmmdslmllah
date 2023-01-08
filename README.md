@@ -1,9 +1,9 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=1000&lines=Hello,+This+is++ABU+SHAIM...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF58C4&center=true&width=1000&lines=Hello,+This+is++Muhammad+Salemmullah...;But,+You+can+also+call+me+a++Java+Lover...;Thank+You+so+much+for+visiting+My+Profile...)](https://mdyeamin.netlify.app/)
 
 <!-- WE WILL chnage https://mdyeamin.netlify.app/ when we create profile -->
- <h3 align="center">You can Hire me As</h3>
+ <h3 align="center">You can hire me as</h3>
 <!--  DS%20|%20Algorithms%20|%20OOP%20;  -->
 <h2 align="center">
 <a href="https://mdyeamin.netlify.app/"><img src="https://readme-typing-svg.herokuapp.com?lines=Software%20QA+Automation+Engineer+;Functional+Tester%20|%20API+Tester%20|%20Test+Analyst;Mobile+Automation+Engineer;SQE%20|%20SDET%20;&center=true&width=500&height=50"></a>
@@ -14,9 +14,9 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a title = "929-842-4338" href="" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/5-58825_telephone-phone-icon-phone-symbol-png-yellow-transparent.png" alt="Call" height="30" width="40" /></a>
+  <a title = "123..." href="" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/5-58825_telephone-phone-icon-phone-symbol-png-yellow-transparent.png" alt="Call" height="30" width="40" /></a>
 &nbsp;
-<a title = "abushaimqa@gmail.com" href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
+<a title = "mhmmdslmllah@gmail.com" href="" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="Email" height="30" width="40" /></a>
 &nbsp; <!-- Use your linkedin account url at href -->
 <a title = "LinkedIn" href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdyeamin05/" height="30" width="40" /></a>
 
@@ -136,7 +136,7 @@
 <!-- <h3>More about Me and Future Plans</h3> -->
 <!-- You can write at your own -->
 <h5>  
-This is ABU Shaim. Currently I am working at Verizon as a Technology Lead. Recently I am working on “Network Agreement Management System” Project where Verizon as a Vendor does a Network agreement with a different company for its network expansion. As a tester, I mimic the role of Engineers to complete the agreement process. I test the newly developed feature manually first, then I start writing the test script based on Java and Selenium based Framework on the story assigned to me.
+This is Muhammad Saleemullah. Currently I am working at FruitsBouquet.com as a Software Engineer in Test. Recently I am working on “Network Agreement Management System” Project where Verizon as a Vendor does a Network agreement with a different company for its network expansion. As a tester, I mimic the role of Engineers to complete the agreement process. I test the newly developed feature manually first, then I start writing the test script based on Java and Selenium based Framework on the story assigned to me.
 <br>
 In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am preparing myself by learning HTML, CSS, Bootstrap, Javascript and related Framework. I also learn Python to give a footstep for that language. I also have interest for Hadoop Big Data Analysis.
 </h5>
@@ -148,7 +148,7 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
     Portfolio
     </h1>
    <!-- Inside href we will give our profile, also you write your name instead of mine -->
-  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Abu Shaim`</a>
+  `Personal Website` -> <a href="https://mdyeamin.netlify.app/" target="_blank">`Muhammad Saleemullah`</a>
   <br>
   <!-- <h3 align="center">
     my creation another website
@@ -194,6 +194,6 @@ In Future, Either I wanna be a Full Stack Developer or a Hadoop Developer. I am 
 </p>
 
 <p align="center">
-  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=abushaim&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
-  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=abushaimqa&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="420px" src="https://github-readme-stats.vercel.app/api?username=muhammadsaleemullah&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
+  <img width="420px" src="https://github-readme-streak-stats.herokuapp.com?user=muhammadsaleemullahqa&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
